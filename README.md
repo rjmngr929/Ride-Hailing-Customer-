@@ -1,27 +1,27 @@
 <h1 align="center">Ride Hailing (Customer) 🚖</h1>
+This is a modern ride-hailing Android application built entirely in <strong>Kotlin</strong>, designed for customers to conveniently book rides in real-time. It offers a smooth user experience with robust architecture, efficient data handling, and advanced mapping features powered by Ola Maps SDKs.
 
-This is a modern ride-hailing Android application built entirely in <strong>Kotlin</strong>, designed for customers to conveniently book rides in real-time. It offers a smooth user experience with robust architecture and efficient data handling.</p>
-
-<h2>🛠 Tech Stack & Architecture</h2>
-
-<ul>
+<h2>🛠 Tech Stack & Architecture</h2> 
+<ul> 
   <li><strong>Language</strong>: Kotlin</li>
-  <li><strong>Architecture</strong>: MVVM (Model-View-ViewModel)</li>
+  <li><strong>Architecture</strong>: MVVM (Model-View-ViewModel)</li> 
   <li><strong>Dependency Injection</strong>: Dagger-Hilt</li>
   <li><strong>Live Data & ViewModel</strong> for reactive UI updates</li>
-  <li><strong>Real-time Communication</strong>: Socket integration (Node.js backend)</li>
-  <li><strong>Map Integration</strong>: Ola maps-navigation-sdk for accurate routing & tracking</li>
-  <li><strong>Backend</strong>: Laravel (API) + Node.js (Socket Server)</li>
+  <li><strong>Real-time Communication</strong>: Socket integration (Node.js backend)</li> 
+  <li><strong>Map Integration</strong>: Ola Maps Navigation SDK for accurate routing & live tracking</li>
+  <li><strong>Place Search</strong>: Ola Maps Places SDK for location search & autocomplete</li>
+  <li><strong>Backend</strong>: Laravel (API) + Node.js (Socket Server)</li> 
 </ul>
-
-<h2>🚀 Features</h2>
-
-<ul>
-  <li>Book rides instantly with real-time driver tracking</li>
-  <li>Live status updates and location sharing</li>
-  <li>Clean and scalable architecture for maintainability</li>
-  <li>Secure and smooth user authentication & ride flow</li>
-</ul>
+  
+  <h2>🚀 Features</h2>
+  <ul> 
+    <li>Book rides instantly with real-time driver tracking</li> 
+    <li>Live status updates and location sharing</li>
+    <li>Search and autocomplete with Ola Maps Places SDK</li>
+    <li>Turn-by-turn navigation with Ola Maps Navigation SDK</li> 
+    <li>Clean and scalable architecture for maintainability</li> 
+    <li>Secure and smooth user authentication & ride flow</li>
+  </ul>
  
  <h5 class="mb-3">Project Images :</h5>
         <img src="https://github.com/user-attachments/assets/73fc492b-11d3-465c-ab09-e5ce17711411" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
